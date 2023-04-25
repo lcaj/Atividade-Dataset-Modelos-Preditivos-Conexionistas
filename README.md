@@ -25,7 +25,6 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 
 Exemplo de adição de imagem:
 ![Descrição](dataset/herpes/herpes (14).jpg)
-https://github.com/lcaj/Atividade-Dataset-Modelos-Preditivos-Conexionistas.git
 
 ## Roboflow
 

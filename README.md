@@ -3,6 +3,7 @@
 ### Luiz Carlos de Araújo Júnior
 
 |**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
+|--|--|--|
 |Deteção de Objetos|Tensorflow|--|
 
 ## Performance

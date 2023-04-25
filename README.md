@@ -24,6 +24,7 @@ O modelo treinado possui performance de **??%**.
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Exemplo de adição de imagem:
+
 (https://raw.githubusercontent.com/lcaj/Atividade-Dataset-Modelos-Preditivos-Conexionistas/main/dataset/herpes/herpes%20(10).jpg)
 
 ## Roboflow

@@ -6,6 +6,10 @@
 |--|--|--|
 |Deteção de Objetos|Tensorflow|--|
 
+## Sobre o Dataset
+
+Esse dataset tem como objetivo analisar a doença conhecida como Herpes Zoster.  **??%**.
+
 ## Performance
 
 O modelo treinado possui performance de **??%**.

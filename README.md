@@ -12,7 +12,7 @@ Esse dataset tem como objetivo analisar a doença conhecida como Herpes Zoster. 
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **47%**.
 
 ### Output do bloco de treinamento
 
@@ -1314,4 +1314,4 @@ https://universe.roboflow.com/cesarschool-ryrkk/atividade-dataset-modelos-predit
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+https://huggingface.co/spaces/lcaj/doenca/tree/main
